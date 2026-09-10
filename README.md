@@ -217,6 +217,6 @@ Based on the analysis:
 Seasonal-Agriculture-Performance-Analysis/
 │
 ├── Harsh_Kumar_Singh_VOIS_Analysis.ipynb
-├── Harsh_Kumar_Singh_VOIS_Presentation.pptx
+├── VOIS_Major_project_PPT_By_Harsh_Kumar_Singh.pptx
 ├── seasonal_agriculture_performance_dataset.xlsx
 └── README.md
